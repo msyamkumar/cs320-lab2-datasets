@@ -1,0 +1,4 @@
+This is a new file!
+Here is the link: https://www.eeoc.gov/sites/default/files/migrated_files/eeoc/statistics/employment/jobpat-eeo1/2009/datasets/YEAR09_NAC4.txt
+This text file tracks the job patterns for miniorities and women in private industry from 2009
+
