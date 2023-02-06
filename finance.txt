@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/rajkumarpandey02/tesla-inc-tsla-stock-price # Dataset from Kaggle that has information about the tesla stock over many weeks.
