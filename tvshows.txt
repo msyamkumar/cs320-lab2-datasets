@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/shivamb/netflix-show This is a data set of Netflix shows, along with the year released and the rating.
+
+https://data.world/amberthomas/scooby-doo-tv-episodes-movies This is a data set of Scooby Doo episodes from various TV series, along with the villain of the episode and the ratings it got.
+
+
