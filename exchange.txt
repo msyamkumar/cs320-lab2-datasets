@@ -1,0 +1,3 @@
+https://www.floatrates.com/json-feeds.html
+A website containing current foreign currency exchange rates. Updated
+every day.
