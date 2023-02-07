@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/unanimad/the-game-awards - This dataset contains all game of the year winners and nominees between 2014 and 2019
