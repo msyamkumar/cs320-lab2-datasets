@@ -1,3 +1,5 @@
 macrostrat.org  #Geological database, which contains information about stratigraphy and sedimentology for North America and others different regions of the world
 
 paleobiodb.org #Largest paleontological database, contains information about fossil ocurences in the world
+
+https://geo-nsdi.er.usgs.gov/ #A catalog of earth science data produced by the U.S. Geological Survey
