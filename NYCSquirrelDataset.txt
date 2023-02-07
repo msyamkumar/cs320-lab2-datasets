@@ -1,0 +1,3 @@
+https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29
+
+This data set involves data from the NYC squirrel Census. This site provides information on Squirrels in NYC such as their location, numbers, stories and more. More can be found here: https://www.thesquirrelcensus.com/
