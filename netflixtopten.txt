@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us
+
+This link contains data from March 2020 to March 2022 for the daily top 10 shows on Netflix. This allows us to
+see which shows people were "binge watching" during the pandemic.
