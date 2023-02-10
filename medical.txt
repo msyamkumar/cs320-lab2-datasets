@@ -4,3 +4,6 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://www.statista.com/statistics/187221/consumer-price-index-for-medical-care-and-food-in-the-us-since-1960/
+Consumer price index for medical care compared to food in the U.S. from 1960 to 2022
