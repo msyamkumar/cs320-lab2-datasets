@@ -3,3 +3,5 @@ https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
 
 https://zenodo.org/record/4296040/files/Mono_Continuous.z01?download=1 . Guitar records dataset
+
+https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_transactions+WHERE+report_year=2022&filename=campfin_transactions&format=csv&skipfields=cartodb_id Campaign Finance Reports for Philadelphia elections
