@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/bittlingmayer/amazonreviews?resource=download Data Set of Amazon Reviews
