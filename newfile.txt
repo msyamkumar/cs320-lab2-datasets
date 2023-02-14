@@ -1,0 +1,3 @@
+https://www.nrel.gov/grid/assets/downloads/wi-pv-2006.zip
+
+Dataset of the solar power usage in Wisconsin.
